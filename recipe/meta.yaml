@@ -20,7 +20,7 @@ requirements:
     - pip
     - python >=3.6
   run:
-    - future
+    - typing-extensions
     - python >=3.6
 
 test:
